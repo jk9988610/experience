@@ -1,0 +1,20 @@
+# 工作台运行时数据
+.wb/
+
+# 测试残留
+test.c
+test_*.c
+test_mix.c
+test_tab.c
+big.txt
+
+# 备份 / 日志 / 缓存
+*.lastgood
+*.rollback.log
+patch.txt
+.ai_patch_config.json
+.ai_patch_backups/
+
+# Python
+__pycache__/
+*.pyc

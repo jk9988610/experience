@@ -1,0 +1,6 @@
+=== FILE: workbench.py
+
+[REPLACE]
+WB_VERSION = "1.0 (2026-10-15)"
+==>
+WB_VERSION = "1.0 final (2026-10-15)"
